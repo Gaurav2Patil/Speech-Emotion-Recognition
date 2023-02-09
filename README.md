@@ -91,4 +91,4 @@ In order to test out our model on voices that were completely different than wha
 This is the function which extracts features from audio and take it as numpy array and predicts the emotion.
 
 ## Conclusion
-Building the model was a challenging task as it involved lot of trial and error methods, tuning etc. The model is very well trained to distinguish between emotions and it distinguishes with 100% accuracy. The model was tuned to detect emotions with more than 85% accuracy. Accuracy can be increased by including more audio files for training.
+Building the model was a challenging task as it involved lot of trial and error methods, tuning etc. The model is very well trained to distinguish between emotions and it distinguishes with 100% accuracy. The model was tuned to detect emotions with more than 77% accuracy. Accuracy can be increased by including more audio files for training.
